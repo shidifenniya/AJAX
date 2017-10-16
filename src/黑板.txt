@@ -1,3 +1,6 @@
+@Jasooo000ooo0o0oo00o00o00o0oo00o00oo0
+
+
 1. AJAX 是什么?
     - asynchronous javascript and xml
     能使用 js 异步访问服务器

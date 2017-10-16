@@ -1,0 +1,24 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="J0703_AJAX_JQ:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/J0703_AJAX_JQ_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="J0703_AJAX_JQ/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="J0703_AJAX_JQ" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="file-copy" path="$PROJECT_DIR$/../../json-lib/lib-1/xom-1.1.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/../../json-lib/lib-1/ezmorph-1.0.6.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/../../json-lib/lib-1/commons-lang-2.5.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/../../json-lib/lib-1/json-lib-2.4-jdk15.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/../../json-lib/lib-1/commons-logging-1.1.1.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/../../json-lib/lib-1/commons-beanutils-1.8.3.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/../../json-lib/lib-1/commons-collections-3.2.1.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/../../jar_pack/dom4j-1.6.1.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/../../jar/jstl-1.2.jar" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>

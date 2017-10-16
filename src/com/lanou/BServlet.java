@@ -17,6 +17,10 @@ import java.util.List;
  */
 @WebServlet("/BServlet")
 public class BServlet extends HttpServlet {
+
+//    jar呢
+//    还有为什么巧克力, 香子兰 之后就变成威尔士新王了
+
     protected void doPost(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
         request.setCharacterEncoding("utf-8");
         response.setContentType("text/html;charset=utf-8");

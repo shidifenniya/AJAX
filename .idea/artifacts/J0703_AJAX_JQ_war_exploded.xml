@@ -17,6 +17,7 @@
           <element id="file-copy" path="$PROJECT_DIR$/../../json-lib/lib-1/commons-collections-3.2.1.jar" />
           <element id="file-copy" path="$PROJECT_DIR$/../../jar_pack/dom4j-1.6.1.jar" />
           <element id="file-copy" path="$PROJECT_DIR$/../../jar/jstl-1.2.jar" />
+          <element id="library" level="project" name="jar" />
         </element>
       </element>
     </root>
